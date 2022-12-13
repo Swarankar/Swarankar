@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhay Swaranar
-- 👀 I’m interested in Artificial Intelegence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 📫 abhaySwarankar@gmail.com
 
